@@ -18,4 +18,4 @@ Run the main script:
 chmod +x menu.sh
 ./menu.sh
 ```
-Author- Parthadharya Basa
+Author- Abhishek Sharama
